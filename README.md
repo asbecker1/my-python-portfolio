@@ -12,3 +12,6 @@ For this project, I made a snack generator. This meant I created different quest
 
 Project #4: MadLibs
 For this project, I started by asking the user for random parts of speech. For example, I would ask the user for a noun and an adjective. I then put these parts of speech into a premade story. 
+
+Project #5: Number Guesser
+For this project, I made a code that would have the computer generate a random number and then had the user guess a random number. It keeps track of how many each person got wrong. 
