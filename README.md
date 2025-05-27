@@ -26,5 +26,6 @@ For this project, I made a code that would take user input and give the user a f
 Project #7: Magic8Ball
 For this project, I made a code that asks the user to put in a yes or no question. If the question has a "?" than it responds and gives a random response using a random number generator. 
 
-Project #8:
+Project #8: Slot Machine
+For this project, I made a code that asks if you would like to spin the slot machine. It then generates three random symbols. If the symbols are all the same it gives up more points, and if its all 7 than they get even more. 
 
