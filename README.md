@@ -1,3 +1,5 @@
+#alison becker
+#5/27/25
 # my-python-portfolio
 This repository contains the best work of my semester 1 in Ap computer science. 
 
@@ -15,3 +17,11 @@ For this project, I started by asking the user for random parts of speech. For e
 
 Project #5: Number Guesser
 For this project, I made a code that would have the computer generate a random number and then had the user guess a random number. It keeps track of how many each person got wrong. 
+
+This contains my work from semester 2 in Ap computer science
+
+Project #6: Create Task
+For this project, I made a code that would take user input and give the user a food they should eat bases. The user puts in the meal the want, then the program changes the filtered list to only include the type of food they want. Then they randomly generates a number and then it has an if statement that determines which number is correlated to which food. 
+
+Project #7: 
+
