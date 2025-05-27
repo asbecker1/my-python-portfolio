@@ -1,7 +1,7 @@
 #alison becker
 #5/27/25
 # my-python-portfolio
-This repository contains the best work of my semester 1 in Ap computer science. 
+SEMESTER 1
 
 Project #1: Digital Scene
 I made a picnic that contained trees in the backround that had 3 different color options. I also made a sky with clouds and a sun. In addition, it had a picnic blanket with a picnic basket and some bread and waterbottles. 
@@ -18,10 +18,13 @@ For this project, I started by asking the user for random parts of speech. For e
 Project #5: Number Guesser
 For this project, I made a code that would have the computer generate a random number and then had the user guess a random number. It keeps track of how many each person got wrong. 
 
-This contains my work from semester 2 in Ap computer science
+SEMESTER 2
 
 Project #6: Create Task
 For this project, I made a code that would take user input and give the user a food they should eat bases. The user puts in the meal the want, then the program changes the filtered list to only include the type of food they want. Then they randomly generates a number and then it has an if statement that determines which number is correlated to which food. 
 
-Project #7: 
+Project #7: Magic8Ball
+For this project, I made a code that asks the user to put in a yes or no question. If the question has a "?" than it responds and gives a random response using a random number generator. 
+
+Project #8:
 
